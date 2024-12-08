@@ -1,0 +1,1 @@
+This repository demonstrates a subtle CSS specificity bug.  The problem lies in the unexpected overriding of styles due to the order and specificity of CSS selectors. The bug.css file contains the erroneous code, while bugSolution.css provides the corrected version.
