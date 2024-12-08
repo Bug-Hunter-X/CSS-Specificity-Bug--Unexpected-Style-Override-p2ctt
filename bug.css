@@ -1,0 +1,1 @@
+The following CSS code has an uncommon error related to the specificity of CSS selectors.  The unexpected behavior is that the style applied to the paragraph with class "highlight" is overridden by the more general style set for paragraphs in the body.
